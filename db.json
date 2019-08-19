@@ -1,1 +1,159 @@
-{ "empresas": [ { "id": 2, "atividade_principal": [ { "text": "Atividades de televisão aberta", "code": "60.21-7-00" } ], "data_situacao": "03/11/2005", "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A", "uf": "RJ", "telefone": "(21) 2155-4551 / (21) 2155-4552", "atividades_secundarias": [ { "text": "Reprodução de vídeo em qualquer suporte", "code": "18.30-0-02" }, { "text": "Portais, provedores de conteúdo e outros serviços de informação na internet", "code": "63.19-4-00" }, { "text": "Agenciamento de espaços para publicidade, exceto em veículos de comunicação", "code": "73.12-2-00" }, { "text": "Programadoras", "code": "60.22-5-01" } ], "qsa": [ { "qual": "10-Diretor", "nome": "CARLOS HENRIQUE SCHRODER" }, { "qual": "10-Diretor", "nome": "JORGE LUIZ DE BARROS NOBREGA" }, { "qual": "10-Diretor", "nome": "ROSSANA FONTENELE BERTO" }, { "qual": "10-Diretor", "nome": "ALI AHAMAD KAMEL ALI HARFOUCHE" }, { "qual": "10-Diretor", "nome": "SERGIO LOURENCO MARQUES" }, { "qual": "10-Diretor", "nome": "MARCELO LUIS MENDES SOARES DA SILVA" }, { "qual": "10-Diretor", "nome": "ANTONIO CLAUDIO FERREIRA NETTO" }, { "qual": "10-Diretor", "nome": "CRISTIANE DELECRODE LOPES SUT RIBEIRO" }, { "qual": "10-Diretor", "nome": "WANDERLEY BACCALA JUNIOR" }, { "qual": "10-Diretor", "nome": "JOAO CARLOS FERRO FERRAZ DE MESQUITA" }, { "qual": "10-Diretor", "nome": "MAURICIO GONZALEZ PINTO" }, { "qual": "10-Diretor", "nome": "EDUARDO GAMA SCHAEFFER" } ], "situacao": "ATIVA", "bairro": "JARDIM BOTANICO", "logradouro": "R LOPES QUINTAS", "numero": "303", "cep": "22.460-901", "municipio": "RIO DE JANEIRO", "porte": "DEMAIS", "abertura": "31/01/1986", "natureza_juridica": "205-4 - Sociedade Anônima Fechada", "fantasia": "GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE", "cnpj": "27.865.757/0001-02", "ultima_atualizacao": "2019-06-24T22:44:16.125Z", "status": "OK", "tipo": "MATRIZ", "complemento": "", "email": "", "efr": "", "motivo_situacao": "", "situacao_especial": "", "data_situacao_especial": "", "capital_social": "6453568523.86", "extra": {}, "billing": { "free": true, "database": true } } ], "usuarios": [ { "id": 1, "cpf": "06626540998", "nome": "Amauri Pereira Spadacio", "email": "amaurispadacio@gmail.com", "confirmarEmail": "amaurispadacio@gmail.com", "endereco": { "cep": "72110340", "numero": "54", "complemento": "Perto da farmácia do Fabrício", "logradouro": "Rua Princesa Isabel", "bairro": "Não sei", "municipio": "Astorga", "estado": "PR" } }, { "cpf": "33651418553", "nome": "ABDORA COUTINHO OLIVEIRA ", "email": "abdora.oliveira@tre-se.jus.br", "confirmarEmail": "abdora.oliveira@tre-se.jus.br", "endereco": { "cep": "72225330", "numero": 50, "complemento": "", "logradouro": "QNN 33", "bairro": "Ceilândia Norte (Ceilândia)", "municipio": "Brasília", "estado": "DF" }, "id": 2 }, { "id": 3, "cpf": "26010852153", "nome": "ABGAIL VILARINS DA ROCHA SANTOS ", "email": "abgail.santos@tre-to.jus.br", "confirmarEmail": "abgail.santos@tre-to.jus.br", "endereco": { "cep": "77808582", "numero": 50, "complemento": "park shopping", "logradouro": "Rua Norte Sul", "bairro": "Setor Tiuba", "municipio": "Araguaína", "estado": "TO" } } ], "delacoes": [ { "id": 1, "idEmpresa": 1, "idUsuario": 1, "dsTitulo": "SABONETE DOVE BABY CAMOMILA HORRÍVEL", "dsHistoria": [ { "idHistoria": 1, "dsHistoria": "Eu comprei uma camisa polo na zattini já faz um mês e chegou rápido quando fui provar ,vi que tinha ficado apertada solicitei a troca no site e depois de alguns dias me liberaram o vale compras no valor que paguei,só que o vale compras não é descontado quando seleciona a nova compra apenas da algum tipo de erro no site", "tsHistoria": "2019-05-21 10:22:25" }, { "idHistoria": 2, "dsHistoria": "Após o contato da empresa e auxílio, consegui resolver. obrigado.", "tsHistoria": "2019-05-24 15:18:25" } ], "dsResposta": [ { "idResposta": 1, "dsResposta": "Olá Randerson, bom dia! Primeiramente pedimos desculpas por qualquer transtorno causado. Conforme contato realizado via telefone, você já conseguiu simular uma compra pelo site utilizando o vale compras. Agradecemos sua atenção e estamos à disposição sempre que precisar. Caso não haja mais nenhuma pendencia quanto a esta reclamação, peço por gentileza, que faça a consideração final no site do reclame aqui, classificando uma nota ao meu atendimento no Reclame Aqui. Atenciosamente, ZATTINI", "tsResposta": "2019-05-22 08:10:25" }, { "idResposta": 2, "dsResposta": "Olá Randerson, bom dia! Conforme conversamos ao telefone, passamos todas as dúvidas à limpo. Obrigado(a).", "tsResposta": "2019-05-23 15:42:25" } ], "tsReclamacao": "2019-05-21 10:22:25" }, { "id": 2, "idEmpresa": 3, "idUsuario": 2, "dsTitulo": "OMO MULTIAÇAO EM VEZ DE REMOVER , MANCHA NOSSAS ROUPAS! ", "dsHistoria": [ { "idHistoria": 1, "dsHistoria": "OMO TOTAL REMOVE AS MANCHAS + DIFICES DE PRIMEIRA, É O QUE ELES PROMETEM FAZER. COMPREI UMA SERIE DE CUECAS BOX, TODAS BRANCAS, VENHO LAVANDO AS MESMAS COM O SABÃO OMO QUE É O MAS CARO, QUE AGENTE VÊ SEMPRE NA MÍDIA AS GRANDES PROPAGANDAS, PROMETENDO MUNDOS E FUNDOS. GASTAM UMA FORTUNA COM PROPAGANDAS [Editado pelo Reclame Aqui]. DEVERIAM FAZER O QUE PROMETEM, E NÃO O CONTRARIO. ENFIM, JÁ PERDI 4 CUECAS TODAS MANCHADAS, VOU ENVIAR A FOTO PARA VOCÊS VEREM SÃO MAS DE R$ 100,00 REAIS PERDIDOS , R$ 29.90 CADA CUECA. TENHO UMA SUGESTÃO PARA PRÓXIMA CAMPANHA DO SABÃO NA TV: OMO MULTIAÇAO APLICA MANCHAS RAPIDINHO!", "tsHistoria": "2018-12-02 18:45:12" } ], "dsResposta": [ { "idResposta": 1, "dsResposta": "Olá, Mauro. Conforme contato telefônico, o SAC OMO já está ciente de sua notificação. Suas observações serão enviadas ao conhecimento das áreas responsáveis. Tenha certeza de que sua opinião nos incentiva a aprimorar cada vez mais o nosso trabalho. Nossa central permanece à disposição para quaisquer esclarecimentos. Atenciosamente, Unilever Brasil 0800-707-3553 sac@atendimentounilever.com.br ", "tsResposta": "2018-12-04 04:05:52" } ], "tsReclamacao": "2018-12-02 18:45:12" } ], "categorias": [ { "id": 1, "nome": "Acessórios de Vestuário", "tipos": [1, 2] }, { "id": 2, "nome": "Corpo e Banho", "tipos": [2, 3] } ], "categoria_tipos" :[ { "id": 1, "nome": "Artigos Religiosos", "problemas": [1, 2] }, { "id": 2, "nome": "Carteira", "problemas": [1, 3] }, { "id": 3, "nome": "Creme", "problemas": [1] } ], "categoria_problemas" :[ { "id": 1, "nome": "Atraso na entrega" }, { "id": 2, "nome": "Propaganda enganosa" }, { "id": 3, "nome": "Produto errado" } ] }
+{
+  "empresas": [
+    {
+      "id": 2,
+      "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+      "cep": "22.460-901",
+      "municipio": "RIO DE JANEIRO",
+      "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+      "fantasia": "GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "cpf": "06626540998",
+      "nome": "Amauri Pereira Spadacio",
+      "email": "amaurispadacio@gmail.com",
+      "confirmarEmail": "amaurispadacio@gmail.com",
+      "endereco": {
+        "cep": "72110340",
+        "numero": "54",
+        "complemento": "Perto da farmácia do Fabrício",
+        "logradouro": "Rua Princesa Isabel",
+        "bairro": "Não sei",
+        "municipio": "Astorga",
+        "estado": "PR"
+      }
+    },
+    {
+      "cpf": "33651418553",
+      "nome": "ABDORA COUTINHO OLIVEIRA ",
+      "email": "abdora.oliveira@tre-se.jus.br",
+      "confirmarEmail": "abdora.oliveira@tre-se.jus.br",
+      "endereco": {
+        "cep": "72225330",
+        "numero": 50,
+        "complemento": "",
+        "logradouro": "QNN 33",
+        "bairro": "Ceilândia Norte (Ceilândia)",
+        "municipio": "Brasília",
+        "estado": "DF"
+      },
+      "id": 2
+    },
+    {
+      "id": 3,
+      "cpf": "26010852153",
+      "nome": "ABGAIL VILARINS DA ROCHA SANTOS ",
+      "email": "abgail.santos@tre-to.jus.br",
+      "confirmarEmail": "abgail.santos@tre-to.jus.br",
+      "endereco": {
+        "cep": "77808582",
+        "numero": 50,
+        "complemento": "park shopping",
+        "logradouro": "Rua Norte Sul",
+        "bairro": "Setor Tiuba",
+        "municipio": "Araguaína",
+        "estado": "TO"
+      }
+    }
+  ],
+  "delacoes": [
+    {
+      "id": 1,
+      "idEmpresa": 1,
+      "idUsuario": 1,
+      "dsTitulo": "SABONETE DOVE BABY CAMOMILA HORRÍVEL",
+      "dsHistoria": [
+        {
+          "idHistoria": 1,
+          "dsHistoria": "Eu comprei uma camisa polo na zattini já faz um mês e chegou rápido quando fui provar ,vi que tinha ficado apertada solicitei a troca no site e depois de alguns dias me liberaram o vale compras no valor que paguei,só que o vale compras não é descontado quando seleciona a nova compra apenas da algum tipo de erro no site",
+          "tsHistoria": "2019-05-21 10:22:25"
+        },
+        {
+          "idHistoria": 2,
+          "dsHistoria": "Após o contato da empresa e auxílio, consegui resolver. obrigado.",
+          "tsHistoria": "2019-05-24 15:18:25"
+        }
+      ],
+      "dsResposta": [
+        {
+          "idResposta": 1,
+          "dsResposta": "Olá Randerson, bom dia! Primeiramente pedimos desculpas por qualquer transtorno causado. Conforme contato realizado via telefone, você já conseguiu simular uma compra pelo site utilizando o vale compras. Agradecemos sua atenção e estamos à disposição sempre que precisar. Caso não haja mais nenhuma pendencia quanto a esta reclamação, peço por gentileza, que faça a consideração final no site do reclame aqui, classificando uma nota ao meu atendimento no Reclame Aqui. Atenciosamente, ZATTINI",
+          "tsResposta": "2019-05-22 08:10:25"
+        },
+        {
+          "idResposta": 2,
+          "dsResposta": "Olá Randerson, bom dia! Conforme conversamos ao telefone, passamos todas as dúvidas à limpo. Obrigado(a).",
+          "tsResposta": "2019-05-23 15:42:25"
+        }
+      ],
+      "tsReclamacao": "2019-05-21 10:22:25"
+    },
+    {
+      "id": 2,
+      "idEmpresa": 3,
+      "idUsuario": 2,
+      "dsTitulo": "OMO MULTIAÇAO EM VEZ DE REMOVER , MANCHA NOSSAS ROUPAS! ",
+      "dsHistoria": [
+        {
+          "idHistoria": 1,
+          "dsHistoria": "OMO TOTAL REMOVE AS MANCHAS + DIFICES DE PRIMEIRA, É O QUE ELES PROMETEM FAZER. COMPREI UMA SERIE DE CUECAS BOX, TODAS BRANCAS, VENHO LAVANDO AS MESMAS COM O SABÃO OMO QUE É O MAS CARO, QUE AGENTE VÊ SEMPRE NA MÍDIA AS GRANDES PROPAGANDAS, PROMETENDO MUNDOS E FUNDOS. GASTAM UMA FORTUNA COM PROPAGANDAS [Editado pelo Reclame Aqui]. DEVERIAM FAZER O QUE PROMETEM, E NÃO O CONTRARIO. ENFIM, JÁ PERDI 4 CUECAS TODAS MANCHADAS, VOU ENVIAR A FOTO PARA VOCÊS VEREM SÃO MAS DE R$ 100,00 REAIS PERDIDOS , R$ 29.90 CADA CUECA. TENHO UMA SUGESTÃO PARA PRÓXIMA CAMPANHA DO SABÃO NA TV: OMO MULTIAÇAO APLICA MANCHAS RAPIDINHO!",
+          "tsHistoria": "2018-12-02 18:45:12"
+        }
+      ],
+      "dsResposta": [
+        {
+          "idResposta": 1,
+          "dsResposta": "Olá, Mauro. Conforme contato telefônico, o SAC OMO já está ciente de sua notificação. Suas observações serão enviadas ao conhecimento das áreas responsáveis. Tenha certeza de que sua opinião nos incentiva a aprimorar cada vez mais o nosso trabalho. Nossa central permanece à disposição para quaisquer esclarecimentos. Atenciosamente, Unilever Brasil 0800-707-3553 sac@atendimentounilever.com.br ",
+          "tsResposta": "2018-12-04 04:05:52"
+        }
+      ],
+      "tsReclamacao": "2018-12-02 18:45:12"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Acessórios de Vestuário",
+      "tipos": [1, 2]
+    },
+    {
+      "id": 2,
+      "nome": "Corpo e Banho",
+      "tipos": [2, 3]
+    }
+  ],
+  "categoria_tipos" :[
+    {
+      "id": 1,
+      "nome": "Artigos Religiosos",
+      "problemas": [1, 2]
+    },
+    {
+      "id": 2,
+      "nome": "Carteira",
+      "problemas": [1, 3]
+    },
+    {
+      "id": 3,
+      "nome": "Creme",
+      "problemas": [1]
+    }
+  ],
+  "categoria_problemas" :[
+    {
+      "id": 1,
+      "nome": "Atraso na entrega"
+    },
+    {
+      "id": 2,
+      "nome": "Propaganda enganosa"
+    },
+    {
+      "id": 3,
+      "nome": "Produto errado"
+    }
+  ]
+}
