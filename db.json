@@ -78,20 +78,6 @@
       "problemas": [1]
     }
   ],
-  "categoria_problemas" :[
-    {
-      "id": 1,
-      "nome": "Atraso na entrega"
-    },
-    {
-      "id": 2,
-      "nome": "Propaganda enganosa"
-    },
-    {
-      "id": 3,
-      "nome": "Produto errado"
-    }
-  ],
   "delacoes": [
 	{
 		"id": 1,
