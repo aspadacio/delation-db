@@ -4,7 +4,26 @@
       "id": 2,
       "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
       "cep": "22.460-901",
-      "municipio": "RIO DE JANEIRO"
+      "municipio": "RIO DE JANEIRO",
+	  "fantasia": "GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE"
+    }
+  ],
+  "usuarios": [
+	{
+      "id": 1,
+      "cpf": "06626540998",
+      "nome": "Amauri Pereira Spadacio",
+      "email": "amaurispadacio@gmail.com",
+      "confirmarEmail": "amaurispadacio@gmail.com",
+      "endereco": {
+        "cep": "72110340",
+        "numero": "54",
+        "complemento": "Perto da farmácia do Fabrício",
+        "logradouro": "Rua Princesa Isabel",
+        "bairro": "Não sei",
+        "municipio": "Astorga",
+        "estado": "PR"
+      }
     }
   ]
 }
