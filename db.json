@@ -91,5 +91,36 @@
       "id": 3,
       "nome": "Produto errado"
     }
+  ],
+  "delacoes": [
+	"id": 1,
+    "idEmpresa": 1,
+    "idUsuario": 1,
+    "dsTitulo": "SABONETE DOVE BABY CAMOMILA HORRÍVEL",
+    "dsHistoria": [
+      {
+        "idHistoria": 1,
+        "dsHistoria": "Eu comprei uma camisa polo na zattini já faz um mês e chegou rápido quando fui provar ,vi que tinha ficado apertada solicitei a troca no site e depois de alguns dias me liberaram o vale compras no valor que paguei,só que o vale compras não é descontado quando seleciona a nova compra apenas da algum tipo de erro no site",
+        "tsHistoria": "2019-05-21 10:22:25"
+      },
+      {
+        "idHistoria": 2,
+        "dsHistoria": "Após o contato da empresa e auxílio, consegui resolver. obrigado.",
+        "tsHistoria": "2019-05-24 15:18:25"
+      }
+    ],
+    "dsResposta": [
+      {
+        "idResposta": 1,
+        "dsResposta": "Olá Randerson, bom dia! Primeiramente pedimos desculpas por qualquer transtorno causado. Conforme contato realizado via telefone, você já conseguiu simular uma compra pelo site utilizando o vale compras. Agradecemos sua atenção e estamos à disposição sempre que precisar. Caso não haja mais nenhuma pendencia quanto a esta reclamação, peço por gentileza, que faça a consideração final no site do reclame aqui, classificando uma nota ao meu atendimento no Reclame Aqui. Atenciosamente, ZATTINI",
+        "tsResposta": "2019-05-22 08:10:25"
+      },
+      {
+        "idResposta": 2,
+        "dsResposta": "Olá Randerson, bom dia! Conforme conversamos ao telefone, passamos todas as dúvidas à limpo. Obrigado(a).",
+        "tsResposta": "2019-05-23 15:42:25"
+      }
+    ],
+    "tsReclamacao": "2019-05-21 10:22:25"
   ]
 }
