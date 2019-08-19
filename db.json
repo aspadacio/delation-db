@@ -6,7 +6,14 @@
       "cep": "22.460-901",
       "municipio": "RIO DE JANEIRO",
 	  "fantasia": "GCP,TV GLOBO, REDE GLOBO, GLOBO.COM, SOM LIVRE"
-    }
+    },
+	{
+	  "id": 1,
+	  "nome": "MIG INFORMATICA E SISTEMAS LTDA",
+	  "cep": "72.151-307",
+      "municipio": "BRASILIA",
+	  "fantasia": "MIG INFORMATICA E SISTEMAS",
+	}
   ],
   "usuarios": [
 	{
@@ -24,6 +31,65 @@
         "municipio": "Astorga",
         "estado": "PR"
       }
+    },
+    {
+      "cpf": "33651418553",
+      "nome": "ABDORA COUTINHO OLIVEIRA ",
+      "email": "abdora.oliveira@tre-se.jus.br",
+      "confirmarEmail": "abdora.oliveira@tre-se.jus.br",
+      "endereco": {
+        "cep": "72225330",
+        "numero": 50,
+        "complemento": "",
+        "logradouro": "QNN 33",
+        "bairro": "Ceilândia Norte (Ceilândia)",
+        "municipio": "Brasília",
+        "estado": "DF"
+      },
+      "id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Acessórios de Vestuário",
+      "tipos": [1, 2]
+    },
+    {
+      "id": 2,
+      "nome": "Corpo e Banho",
+      "tipos": [2, 3]
+    }
+  ],
+  "categoria_tipos" :[
+    {
+      "id": 1,
+      "nome": "Artigos Religiosos",
+      "problemas": [1, 2]
+    },
+    {
+      "id": 2,
+      "nome": "Carteira",
+      "problemas": [1, 3]
+    },
+    {
+      "id": 3,
+      "nome": "Creme",
+      "problemas": [1]
+    }
+  ],
+  "categoria_problemas" :[
+    {
+      "id": 1,
+      "nome": "Atraso na entrega"
+    },
+    {
+      "id": 2,
+      "nome": "Propaganda enganosa"
+    },
+    {
+      "id": 3,
+      "nome": "Produto errado"
     }
   ]
 }
